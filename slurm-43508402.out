@@ -1,0 +1,10 @@
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) libfabric/1.10.1     2) openmpi/4.0.3     3) ucx/1.8.0
+
+/home/xxie92/projects/def-pmkim/xxie92/anaconda3/envs/proteinsgm2/lib/python3.8/site-packages/torch/amp/autocast_mode.py:198: UserWarning: User provided device_type of 'cuda', but CUDA is not available. Disabling
+  warnings.warn('User provided device_type of \'cuda\', but CUDA is not available. Disabling')
+usage: large_sample_for_fullatom_helices.py [-h] [--cpkt CPKT]
+                                            [--resume RESUME]
+                                            config
+large_sample_for_fullatom_helices.py: error: unrecognized arguments: -cpkt 45

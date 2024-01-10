@@ -1,0 +1,409 @@
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) libfabric/1.10.1     2) openmpi/4.0.3     3) ucx/1.8.0
+
+/home/xxie92/projects/def-pmkim/xxie92/anaconda3/envs/proteinsgm2/lib/python3.8/site-packages/torch/amp/autocast_mode.py:198: UserWarning: User provided device_type of 'cuda', but CUDA is not available. Disabling
+  warnings.warn('User provided device_type of \'cuda\', but CUDA is not available. Disabling')
+/home/xxie92/projects/def-pmkim/xxie92/anaconda3/envs/proteinsgm2/lib/python3.8/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 1
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 3
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 5
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 7
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 9
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 11
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 13
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 15
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 17
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 19
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 21
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 23
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 25
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 27
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 29
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 31
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 33
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 35
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 37
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 39
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 41
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 43
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 45
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 47
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 49
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 51
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 53
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 55
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 57
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 59
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 61
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 63
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 65
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 67
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 69
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 71
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 73
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 75
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 77
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 79
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 81
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 83
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 85
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 87
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735

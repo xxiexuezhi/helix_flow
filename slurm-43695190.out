@@ -1,0 +1,35 @@
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) libfabric/1.10.1     2) openmpi/4.0.3     3) ucx/1.8.0
+
+/home/xxie92/projects/def-pmkim/xxie92/anaconda3/envs/proteinsgm2/lib/python3.8/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+----------------------------------------------------------------------------------------------------
+Make Directory cath3_rescale_30_helix_separate2/cath3_rescale_30_ab_separate2 in Logs
+Loaded 233676 data points...
+Loaded 27492 data points...
+Number of parameters: 4961735
+Loaded checkpoint 187
+----------------------------------------------------------------------------------------------------
+[cath3_rescale_30_helix_separate2]
+----------------------------------------------------------------------------------------------------
+
+[Epoch]:   0%|          | 0/1813 [00:00<?, ?it/s][A/home/xxie92/projects/def-pmkim/xxie92/anaconda3/envs/proteinsgm2/lib/python3.8/site-packages/e3nn/o3/_spherical_harmonics.py:92: UserWarning: FALLBACK path has been taken inside: compileCudaFusionGroup. This is an indication that codegen Failed for some reason.
+To debug try disable codegen fallback path via setting the env variable `export PYTORCH_NVFUSER_DISABLE=fallback`
+To report the issue, try enable logging via setting the envvariable ` export PYTORCH_JIT_LOG_LEVEL=manager.cpp`
+ (Triggered internally at  /opt/conda/conda-bld/pytorch_1659484810403/work/torch/csrc/jit/codegen/cuda/manager.cpp:237.)
+  sh = _spherical_harmonics(self._lmax, x[..., 0], x[..., 1], x[..., 2])
+
+[Epoch]:   0%|          | 1/1813 [1:33:39<2828:35:48, 5619.73s/it][A
+                                                                  [A
+[Epoch]:   0%|          | 1/1813 [3:07:09<2828:35:48, 5619.73s/it][A
+[Epoch]:   0%|          | 2/1813 [3:07:09<2824:11:04, 5614.06s/it][A
+[Epoch]:   0%|          | 3/1813 [4:40:36<2820:48:56, 5610.46s/it][A
+                                                                  [A
+[Epoch]:   0%|          | 3/1813 [6:13:53<2820:48:56, 5610.46s/it][A
+[Epoch]:   0%|          | 4/1813 [6:13:54<2816:47:45, 5605.56s/it][A
+[Epoch]:   0%|          | 5/1813 [7:47:13<2814:02:53, 5603.19s/it][A
+                                                                  [A
+[Epoch]:   0%|          | 5/1813 [9:20:37<2814:02:53, 5603.19s/it][A
+[Epoch]:   0%|          | 6/1813 [9:20:38<2812:47:46, 5603.80s/it][A
+[Epoch]:   0%|          | 7/1813 [10:54:02<2811:23:01, 5604.09s/it][A

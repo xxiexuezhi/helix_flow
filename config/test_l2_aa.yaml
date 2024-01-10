@@ -1,0 +1,58 @@
+data:
+  data: cath2
+  train_path: '../drum-antibody-main/data/data.pkl'
+  test_path: '../drum-antibody-main/data/data.pkl'
+  min_length: 40
+  max_length: 200
+  scale_coords: 0.1
+
+model:
+  irreps_in:
+  irreps_node_embedding: 256x0e+128x1o
+  num_layers: 4
+  irreps_node_attr: 1x0e
+  irreps_sh: 1x0e+1x1o
+  number_of_basis: 64
+  fc_neurons: [64, 64]
+  irreps_feature: 256x0e+128x1o
+  irreps_head: 64x0e+32x1o
+  num_heads: 4
+  irreps_pre_attn:
+  rescale_degree: False
+  nonlinear_message: True
+  irreps_mlp_mid: 256x0e+128x1o
+  norm_layer: layer
+  alpha_drop: 0.2
+  proj_drop: 0.0
+  out_drop: 0.0
+  drop_path_rate: 0.0
+  mean:
+  std:
+  scale:
+  atomref:
+  max_radius: 16.0
+  self_cond: False
+
+train:
+  name: test_l2_TEST
+  num_epochs: 2000
+  batch_size: 1
+  grad_accum: 4 # effective batch size = batch_size * grad_accumff
+  save_interval: 5  # previous is 100. I plan to change the code
+  print_interval: 1
+  sample_interval: 5 # preiouvs is 100. 
+  reduce_mean: False 
+  lr: 1.0e-4
+  lr_schedule: False
+  ema: 0.999
+  weight_decay: 1.0e-12
+  grad_norm: 1.0
+  lr_decay: 0.999
+  eps: 2.0e-4 #1.0e-3
+  optimizer: AdamW
+
+ckpt: '7'
+
+sample:
+  batch_size: 1
+  n_samples: 1

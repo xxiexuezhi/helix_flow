@@ -1,0 +1,101 @@
+data:
+  data: cath
+  train_path: './data/data.pkl'
+  test_path:
+
+mix:
+  discrete: False
+  aa: # Atom type
+    type: OU_pred
+    drift_coeff: 1
+    schedule: sqlinear
+    eta: 1
+    sigma_0: 1.0
+    sigma_1: 0.6
+    num_scales: 1000
+  pos:
+    type: OU_pred
+    drift_coeff: 1
+    schedule: sqlinear
+    eta: 1
+    sigma_0: 0.3
+    sigma_1: 0.1
+    num_scales: 1000
+
+model:
+  irreps_in:
+  irreps_node_embedding: 128x0e+64x1e+32x2e
+  num_layers: 6
+  irreps_node_attr: 1x0e
+  irreps_sh: 1x0e+1x1e+1x2e
+  max_radius: 8.0
+  number_of_basis: 64
+  fc_neurons: [64, 64]
+  irreps_feature: 128x0e+64x1e+32x2e
+  irreps_head: 32x0e+16x1e+8x2e
+  num_heads: 4
+  irreps_pre_attn:
+  rescale_degree: False
+  nonlinear_message: True
+  irreps_mlp_mid: 384x0e+192x1e+96x2e
+  norm_layer: layer
+  alpha_drop: 0.2
+  proj_drop: 0.0
+  out_drop: 0.0
+  drop_path_rate: 0.0
+  mean:
+  std:
+  scale:
+  atomref:
+  bb_only: True
+  self_cond: True
+  type: unconditional
+
+
+train:
+  name: e3nn_test
+  num_epochs: 1000
+  batch_size: 1
+  save_interval: 1
+  print_interval: 1
+  reduce_mean: False 
+  lr: 1.0e-4
+  lr_schedule: False
+  ema: 0.999
+  weight_decay: 1.0e-12
+  grad_norm: 1.0
+  lr_decay: 0.999
+  eps: 2.0e-4 #1.0e-3 
+  loss_type: 
+    aa: ones
+    pos: ones
+  optimizer: AdamW
+  resume: False
+  resume_epoch: 0
+
+sampler:
+  predictor: Euler
+  corrector: None
+  snr: None
+  scale_eps: None
+  n_steps: 1
+  prior:
+    aa:
+      type: None
+      scale: 1.0
+    pos:
+      type: None
+      scale: 1.0
+
+ckpt: Jul08-01:08:11_200
+
+sample:
+  batch_size: 1
+  n_samples: 1
+  use_ema: True
+  noise_removal: True
+  eps: 2.0e-3 
+  seed: 42
+  conv_plot: False
+  save_samples: False
+  save_trajectory: False
